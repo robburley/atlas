@@ -1,0 +1,1 @@
+@include('mobile.opportunities.actions.awaiting-credit-check')

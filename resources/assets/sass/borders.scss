@@ -1,0 +1,82 @@
+@mixin border-top {
+  border-top: 4px solid;
+}
+
+.border-top-success {
+  @include border-top;
+  border-top-color: #8dc63f;
+}
+
+.border-top-warning {
+  @include border-top;
+  border-top-color: #ffba00;
+}
+
+.border-top-info {
+  @include border-top;
+  border-top-color: #40bbea;
+}
+
+.border-top-danger {
+  @include border-top;
+  border-top-color: #cc3f44;
+}
+
+.border-top-purple {
+  @include border-top;
+  border-top-color: #7c38bc;
+}
+
+.background-muted {
+  background: #eeeeee !important;
+}
+
+.background-success {
+  background: #8dc63f !important;
+}
+
+.background-warning {
+  background: #ffba00 !important;
+}
+
+.background-info {
+  background: #40bbea !important;
+}
+
+.background-danger {
+  background: #cc3f44 !important;
+}
+
+.background-purple {
+  background: #7c38bc !important;
+}
+
+.background-white {
+  background: #ffffff !important;
+}
+
+
+
+.text-success {
+  color: #8dc63f !important;
+}
+
+.text-warning {
+  color: #ffba00 !important;
+}
+
+.text-info {
+  color: #40bbea !important;
+}
+
+.text-danger {
+  color: #cc3f44 !important;
+}
+
+.text-purple {
+  color: #7c38bc !important;
+}
+
+.text-white {
+  color: #ffffff !important;
+}

@@ -1,0 +1,82 @@
+.m-b-0 {
+    margin-bottom: 0 !important;
+}
+
+.m-b-20 {
+    margin-bottom: 20px !important;
+}
+
+.m-t-0 {
+    margin-top: 0 !important;
+}
+
+.m-t-5 {
+    margin-top: 5px !important;
+}
+
+.p-b-0 {
+    padding-bottom: 0 !important;
+}
+
+.p-b-5 {
+    padding-bottom: 5px !important;
+}
+
+.p-b-10 {
+    padding-bottom: 10px !important;
+}
+
+.p-t-10 {
+    padding-top: 20px !important;
+}
+
+.text-bold {
+    font-weight: 700;
+}
+
+.v-mid {
+    vertical-align: middle;
+}
+
+.m-h-475 {
+    min-height: 500px;
+}
+
+.m-h-215 {
+    min-height: 215px;
+}
+
+.m-h-280 {
+    min-height: 280px;
+}
+
+.m-h-192 {
+    min-height: 192px;
+}
+
+.cbp_tmtime {
+    padding-right: 125px !important;
+}
+
+.f-s-80 {
+    font-size: 80%;
+}
+
+.m-r-10 {
+    margin-right: 10px;
+}
+
+.v-mid {
+    vertical-align: middle !important;
+}
+
+.m-h-386 {
+    min-height: 386px;
+}
+
+.event-title {
+    border-bottom: 1px solid #eee;
+}
+.modal-wide {
+    width: 50%;
+}

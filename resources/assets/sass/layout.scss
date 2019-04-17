@@ -1,0 +1,96 @@
+.text-bold {
+  font-weight: 700;
+}
+
+.v-mid {
+  vertical-align: middle;
+}
+
+.cbp_tmtime {
+  padding-right: 125px !important;
+}
+
+.f-s-80 {
+  font-size: 80%;
+}
+
+.m-r-10 {
+  margin-right: 10px;
+}
+
+.v-mid {
+  vertical-align: middle !important;
+}
+
+.text-dark {
+  color: #2c2e2f !important;
+}
+
+
+.event-title {
+  border-bottom: 1px solid #eee;
+}
+
+.footer-sticked-chat .chat-conversations > li.open > a {
+  width: 400px;
+}
+
+.footer-sticked-chat .chat-conversations > li .chat-user {
+  background-color: #7938bc !important;
+  color: #fff;
+  width: 200px;
+}
+
+.footer-sticked-chat .chat-conversations > li .conversation-window > .chat-user .close {
+  color: #fff;
+}
+
+.modal-wide {
+  width: 50%;
+}
+
+.modal-x-wide {
+  width: 80%;
+}
+
+.ui-datepicker {
+  z-index: 9999 !important;
+}
+
+@for $i from 0 through 100 {
+  .p-t-#{$i} {
+    padding-top: #{$i}px !important;
+  }
+  .p-b-#{$i} {
+    padding-bottom: #{$i}px !important;
+  }
+  .p-l-#{$i} {
+    padding-left: #{$i}px !important;
+  }
+  .p-r-#{$i} {
+    padding-right: #{$i}px !important;
+  }
+
+  .m-t-#{$i} {
+    margin-top: #{$i}px !important;
+  }
+  .m-b-#{$i} {
+    margin-bottom: #{$i}px !important;
+  }
+  .m-l-#{$i} {
+    margin-left: #{$i}px !important;
+  }
+  .m-r-#{$i} {
+    margin-right: #{$i}px !important;
+  }
+}
+
+@for $i from 0 through 500 {
+  .m-h-#{$i} {
+    min-height: #{$i}px;
+  }
+}
+
+.w-100-p {
+  width: 100%;
+}

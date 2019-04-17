@@ -1,0 +1,1 @@
+{!! Form::label('energy_opportunity_status_id', 'Blown Status', ['class' => 'control-label']) . Form::select('energy_opportunity_status_id', FormPopulator::energyBlownStatuses(), null, ['class' => 'form-control', 'placeholder' => 'Please Select']) !!}

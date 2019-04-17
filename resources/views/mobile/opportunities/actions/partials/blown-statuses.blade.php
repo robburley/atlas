@@ -1,0 +1,1 @@
+<div class="form-group"><div class="col-sm-12">{!! Form::label('mobile_opportunity_status_id', 'Blown Status', ['class' => 'control-label']) . Form::select('mobile_opportunity_status_id', FormPopulator::mobileBlownStatuses(), null, ['class' => 'form-control', 'placeholder' => 'Please Select', 'required' => 'required']) !!}</div></div>
